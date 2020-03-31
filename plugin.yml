@@ -1,0 +1,9 @@
+name: DiscordLink
+version: 1.0
+api: 3.0.0
+author: NxtGamerHD
+main: NxtGamerHD\Discord\main
+
+commands:
+   discord:
+      description: "Shows you the Discord Link!"

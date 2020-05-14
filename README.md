@@ -1,5 +1,5 @@
 # DiscordLink
-
+This is a Plugin with you can Give up your Discord-Invite ^^
 ## Command
 ``/discord``
 
